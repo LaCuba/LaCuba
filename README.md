@@ -5,7 +5,7 @@
 
 ## :mortar_board: Main skills
 
-`React` `Redux` `JavaScript` `Sass` `HTML5` `REST API`
+`React` `Redux` `JavaScript` `TypeScript` `Sass` `HTML5` `REST API`
 
 ## :mailbox_with_mail: Contacts
 
