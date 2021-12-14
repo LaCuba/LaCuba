@@ -1,4 +1,4 @@
-## :wave: Hi, My name is Nikolay!
+## :wave: Hi, My name is Nick!
 
 #### I'm frontend developer from Russia, Moscow.
 #### I've experience in creating a SPA. 
