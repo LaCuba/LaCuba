@@ -1,11 +1,10 @@
 ## :wave: Hi, My name is Nick!
 
-#### I'm frontend developer from Russia, Moscow.
-#### I've experience in creating a SPA. 
+#### I'm frontend developer from Turkiye, Antalya.
 
 ## :mortar_board: Main skills
 
-`React` `Redux` `JavaScript` `TypeScript` `Sass` `HTML5` `REST API`
+`React` `Next.js` `Angular` `Redux` `Mobx` `JavaScript` `TypeScript` `Sass`
 
 ## :mailbox_with_mail: Contacts
 
