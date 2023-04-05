@@ -1,6 +1,6 @@
 ## :wave: Hi, My name is Nick!
 
-#### I'm frontend developer from Turkiye, Antalya.
+#### I'm frontend developer.
 
 ## :mortar_board: Main skills
 
